@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Wided Ben Aissi</h1>
-<h3 align="center">A passionate Software Engineer developer from Tunisia</h3>
+<h1 align="center">👋 Hi there! I'm Wided Ben Aissi </h1>
+<h3 align="center">A computer engineering student at ESPRIT. Aspiring to become a skilled software engineer, I'm passionate about coding, solving problems, and learning new technologies. Let's connect and collaborate on innovative projects! 🚀💻✨</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/QVC1Nmb9TwUAAAAi/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wided-ba&label=Profile%20views&color=0e75b6&style=flat" alt="wided-ba" /> </p>
