@@ -3,7 +3,7 @@
   A computer engineering student at ESPRIT. Aspiring to become a skilled software engineer, I'm passionate about coding, solving problems, and learning new technologies. Let's connect and collaborate on innovative projects! 🚀💻✨
 </h3>
 
-<img align="right" alt="coding" width="300" src="https://i.pinimg.com/originals/06/ef/d9/06efd9fc18aade1ce5a7f80374b5ce61.gif">
+<img align="right" alt="coding" width="450" src="https://cdn.dribbble.com/users/537878/screenshots/14511603/media/842e004c9d8f4fc44f12f27a968968c8.gif">
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=wided-ba&label=Profile%20views&color=0e75b6&style=flat" alt="wided-ba" />
