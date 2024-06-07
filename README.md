@@ -1,6 +1,7 @@
 <h1 align="center">👋 Hi there! I'm Wided Ben Aissi</h1>
-
-<h3 align="center">A computer engineering student at ESPRIT. Aspiring to become a skilled software engineer, I'm passionate about coding, solving problems, and learning new technologies. Let's connect and collaborate on innovative projects! 🚀💻✨</h3>
+<h3 align="center">
+  A computer engineering student at ESPRIT. Aspiring to become a skilled software engineer, I'm passionate about coding, solving problems, and learning new technologies. Let's connect and collaborate on innovative projects! 🚀💻✨
+</h3>
 
 <img align="right" alt="coding" width="300" src="https://media.tenor.com/QVC1Nmb9TwUAAAAi/coding.gif">
 
@@ -10,7 +11,7 @@
 
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/wided-ben-aissi-2059a9292" target="blank">
+  <a href="https://linkedin.com/in/wided-ben-aissi-2059a9292" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wided ben aissi" height="30" width="40" />
   </a>
 </p>
@@ -70,6 +71,7 @@
   </a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wided-ba&show_icons=true&locale=en&layout=compact" alt="wided-ba" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wided-ba&" alt="wided-ba" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wided-ba&" alt="wided-ba" />
+</p>
