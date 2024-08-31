@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi there! I'm Wided Ben Aissi</h1>
 <h3 align="center">
-  A computer engineering student at ESPRIT. Aspiring to become a skilled software engineer, I'm passionate about coding, solving problems, and learning new technologies. Let's connect and collaborate on innovative projects! 🚀💻✨
+  A computer engineering student at ESPRIT ,specializing in data science. Aspiring to become a skilled software engineer, I'm passionate about coding, solving problems, and learning new technologies. Let's connect and collaborate on innovative projects! 🚀💻✨
 </h3>
 
 <img align="right" alt="coding" width="450" src="https://cdn.dribbble.com/users/537878/screenshots/14511603/media/842e004c9d8f4fc44f12f27a968968c8.gif">
