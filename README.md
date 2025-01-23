@@ -73,5 +73,5 @@
 
 
 <p align="center">
-  <img src="[https://github-readme-streak-stats.herokuapp.com/?user=wided-ba&](https://camo.githubusercontent.com/48f8ab2593424b263c1d3f798f8066f7a3538d9745e55bbcdd98ee340b4703d0/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d77696465642d626126)" alt="wided-ba" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wided-ba&" alt="wided-ba" />
 </p>
